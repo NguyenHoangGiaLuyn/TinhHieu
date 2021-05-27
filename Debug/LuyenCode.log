@@ -1,0 +1,3 @@
+﻿  TrainingCode.cpp
+D:\Luyen code\LuyenCode\TrainingCode.cpp(14,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  LuyenCode.vcxproj -> D:\Luyen code\LuyenCode\Debug\LuyenCode.exe
